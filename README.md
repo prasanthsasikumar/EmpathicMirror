@@ -18,5 +18,5 @@ For the full documentation including **[installation instructions](https://docs.
 ## Timelapse of building v0.1
 https://youtu.be/NN8ZxDq4Vsk
 
-
+## Licence
 Empathic Mirror is opensource and free. :)
