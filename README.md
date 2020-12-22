@@ -15,7 +15,7 @@ For the full documentation including **[installation instructions](https://docs.
 - Documentation: [https://docs.magicmirror.builders](https://docs.magicmirror.builders)
 - Magic Mirror Forum: [https://forum.magicmirror.builders](https://forum.magicmirror.builders)
 
-##Timelapse of building v0.1
+## Timelapse of building v0.1
 https://youtu.be/NN8ZxDq4Vsk
 
 
