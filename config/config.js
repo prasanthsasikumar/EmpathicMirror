@@ -55,7 +55,7 @@ var config = {
 			config: {
 				calendars: [{
 					symbol: "calendar-check",
-					url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
+					url: "webcal://www.prasanthsasikumar.com/ecl_cal.ics"
 				}]
 			}
 		},
