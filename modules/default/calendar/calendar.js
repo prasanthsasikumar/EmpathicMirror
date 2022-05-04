@@ -41,7 +41,7 @@ Module.register("calendar", {
 		calendars: [
 			{
 				symbol: "calendar",
-				url: "https://www.calendarlabs.com/templates/ical/US-Holidays.ics"
+				url: "https://github.com/prasanthsasikumar/EmpathicMirror/tree/main/modules/default/calendar/ecl_cal.ics"
 			}
 		],
 		titleReplace: {
